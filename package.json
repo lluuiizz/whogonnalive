@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "^0.0.1-security",
+    "socket.io": "^4.5.2"
+  },
+  "name": "whogonnalive",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lluuiizz/whogonnalive.git"
+  },
+  "author": "Luiz G. C. Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lluuiizz/whogonnalive/issues"
+  },
+  "homepage": "https://github.com/lluuiizz/whogonnalive#readme",
+  "description": ""
+}
